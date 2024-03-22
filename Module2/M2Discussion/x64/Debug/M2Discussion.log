@@ -1,0 +1,7 @@
+﻿  M2Discussion.cpp
+D:\Documents\CS310\Module2\M2Discussion\M2Discussion.cpp(15,12): error C2059: syntax error: 'user-defined literal'
+D:\Documents\CS310\Module2\M2Discussion\M2Discussion.cpp(19,12): error C3688: invalid literal suffix 'stNumber'; literal operator or literal operator template 'operator ""stNumber' not found
+D:\Documents\CS310\Module2\M2Discussion\M2Discussion.cpp(24,5): error C2065: 'sum': undeclared identifier
+D:\Documents\CS310\Module2\M2Discussion\M2Discussion.cpp(24,11): error C3688: invalid literal suffix 'stNumber'; literal operator or literal operator template 'operator ""stNumber' not found
+D:\Documents\CS310\Module2\M2Discussion\M2Discussion.cpp(26,34): error C3688: invalid literal suffix 'stNumber'; literal operator or literal operator template 'operator ""stNumber' not found
+D:\Documents\CS310\Module2\M2Discussion\M2Discussion.cpp(26,84): error C2065: 'sum': undeclared identifier

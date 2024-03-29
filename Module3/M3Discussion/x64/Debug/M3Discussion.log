@@ -1,0 +1,3 @@
+﻿  M3Discussion.cpp
+D:\Documents\CS310\Module3\M3Discussion\M3Discussion.cpp(21,13): error C2106: '=': left operand must be l-value
+D:\Documents\CS310\Module3\M3Discussion\M3Discussion.cpp(25,30): error C2110: '+': cannot add two pointers
